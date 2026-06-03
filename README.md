@@ -17,6 +17,7 @@ GUI popups to show mode and movement number
 
 ctrl+f to exit to normal mode without sending ESC key as well (sends regular ctrl+f when in normal mode)
 
+
 press : to open command box, supports:
 
 w = save
